@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
 # ixa        
-# run in Linux shell                                   # run in linux shell
+# run in Linux shell                                   
 # rip indentation
 $white = "\e[97m";
 $green  = "\e[92m";
